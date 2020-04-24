@@ -1,7 +1,7 @@
 <h1> Layout Flexbox </h1>
 Layout made with flexbox
 
-Example available at https://mrestrepoagudelo.github.io/layoutflexbox/
+Example available at https://mrestrepoagudelo.github.io/flexbox-layout/
 
 <h3>Include Layout Flexbox CSS:</h4>
 
